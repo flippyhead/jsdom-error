@@ -1,0 +1,12 @@
+{
+  "extends": ["airbnb"],
+  "quotes": [2, "single", "avoid-escape"],
+  "env": {
+    "meteor": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "react/prefer-es6-class": 0
+  }
+}
